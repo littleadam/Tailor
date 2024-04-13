@@ -1,4 +1,4 @@
 Costume design and development at ease and super quick and super customizable
-
+and works at least five times faster than the next fastest
 
 the project uses AI for efficient work process
